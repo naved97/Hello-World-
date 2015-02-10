@@ -1,0 +1,3 @@
+# Hello-World-
+This is my First Github Project with Respority
+I'm trying to learn some codings to become a developer and nothing else....
